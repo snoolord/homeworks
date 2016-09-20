@@ -1,3 +1,4 @@
+# class
 class Board
   attr_accessor :cups
 
